@@ -1,3 +1,3 @@
 #Automatic World Backups for out Minecraft server
 
-See [`branches`]("/branches") for all backups
+See [`branches`](https://github.com/Andrevinder/KSASWorldBackups/branches") for all backups
